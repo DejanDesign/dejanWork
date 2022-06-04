@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "react-loading": "^2.0.3",
+    "react-router-dom": "^6.3.0",
+    "react-router-hash-link": "^2.4.3",
+    "react-skillbars": "^2.0.1",
+    "react-spinners": "^0.12.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0",
+    "sass": "^1.52.1",
+    "sass-loader": "^13.0.0",
+    "webpack": "^5.72.1"
+  }
+}
